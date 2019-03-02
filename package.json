@@ -1,0 +1,19 @@
+{
+  "name": "tims-promo-server",
+  "version": "1.0.0",
+  "description": "Server-side for Tim's Pizza promocode parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoxxid/tims-promo-server.git"
+  },
+  "author": "Roman Kovalev <epoxxid@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epoxxid/tims-promo-server/issues"
+  },
+  "homepage": "https://github.com/epoxxid/tims-promo-server#readme"
+}
